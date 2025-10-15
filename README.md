@@ -22,13 +22,6 @@ A Streamlit app that extracts content from article URLs, creates embeddings usin
 
 Contributions are welcome! Please submit issues or pull requests for improvements.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-
-Thanks to the LangChain and Streamlit communities for their excellent tools and support.
 
 
 
